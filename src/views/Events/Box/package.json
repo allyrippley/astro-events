@@ -1,0 +1,6 @@
+{
+  "name": "EventsBox",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./EventsBox.js"
+}
